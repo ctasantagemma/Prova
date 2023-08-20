@@ -1,673 +1,302 @@
- .u-section-1 {
-  min-height: 210px;
-}
-
-.u-section-1 .u-layout-wrap-1 {
-  width: calc(((100% - 1140px) / 2) + 1318px);
-  margin: 8px auto 0 0;
-}
-
-.u-section-1 .u-layout-cell-1 {
-  min-height: 212px;
-  background-image: none;
-}
-
-.u-section-1 .u-container-layout-1 {
-  padding: 0;
-}
-
-.u-section-1 .u-image-1 {
-  width: 165px;
-  height: 165px;
-  margin: 9px auto 0 65px;
-}
-
-.u-section-1 .u-text-1 {
-  font-size: 1.5rem;
-  margin: -141px 65px 0 284px;
-}
-
-.u-section-1 .u-layout-cell-2 {
-  min-height: 212px;
-}
-
-.u-section-1 .u-container-layout-2 {
-  padding: 0;
-}
-
-.u-section-1 .u-gallery-1 {
-  height: 202px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-carousel-indicators-1 {
-  position: absolute;
-  bottom: 10px;
-  width: auto;
-  height: auto;
-}
-
-.u-section-1 .u-carousel-item-1 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-over-slide-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-item-2 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-back-image-2 {
-  object-position: 50% 16.73%;
-}
-
-.u-section-1 .u-over-slide-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-item-3 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-over-slide-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-item-4 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-over-slide-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-item-5 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-back-image-5 {
-  object-position: 50% 38.53%;
-}
-
-.u-section-1 .u-over-slide-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-item-6 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-back-image-6 {
-  object-position: 50% 39.24%;
-}
-
-.u-section-1 .u-over-slide-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-item-7 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-back-image-7 {
-  object-position: 50% 54.26%;
-}
-
-.u-section-1 .u-over-slide-7 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-item-8 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-back-image-8 {
-  object-position: 50% 39.23%;
-}
-
-.u-section-1 .u-over-slide-8 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-item-9 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-back-image-9 {
-  object-position: 50% 35.77%;
-}
-
-.u-section-1 .u-over-slide-9 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-1 .u-carousel-control-1 {
-  position: absolute;
-  left: 10px;
-  width: 40px;
-  height: 40px;
-  background-image: none;
-  padding: 8px;
-}
-
-.u-section-1 .u-carousel-control-2 {
-  position: absolute;
-  right: 10px;
-  width: 40px;
-  height: 40px;
-  background-image: none;
-  padding: 8px;
-}
-
-@media (max-width: 1199px) {
-   .u-section-1 {
-    min-height: 149px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    width: calc(((100% - 940px) / 2) + 940px);
-  }
-
-  .u-section-1 .u-layout-cell-1 {
-    min-height: 151px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 31px;
-    margin-left: 232px;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 151px;
-  }
-}
-
-@media (max-width: 991px) {
-   .u-section-1 {
-    min-height: 98px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    width: calc(((100% - 720px) / 2) + 720px);
-  }
-
-  .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 0;
-    margin-left: 153px;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-}
-
-@media (max-width: 767px) {
-   .u-section-1 {
-    min-height: 198px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    width: calc(((100% - 540px) / 2) + 540px);
-  }
-
-  .u-section-1 .u-text-1 {
-    font-size: 1rem;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-layout-wrap-1 {
-    width: calc(((100% - 340px) / 2) + 340px);
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-left: 0;
-  }
-} .u-section-2 {
-  background-image: none;
-  min-height: 402px;
-}
-
-.u-section-2 .u-layout-wrap-1 {
-  width: 1487px;
-  margin: 10px calc(((100% - 1140px) / 2) + -181px) 10px auto;
-}
-
-.u-section-2 .u-layout-cell-1 {
-  min-height: 409px;
-}
-
-.u-section-2 .u-container-layout-1 {
-  padding: 0;
-}
-
-.u-section-2 .u-custom-html-1 {
-  height: auto;
-  min-height: 357px;
-  margin: 36px 0 0 8px;
-}
-
-.u-section-2 .u-text-1 {
-  width: 378px;
-  margin: -369px auto 0;
-}
-
-.u-section-2 .u-layout-cell-2 {
-  min-height: 409px;
-  background-image: none;
-}
-
-.u-section-2 .u-container-layout-2 {
-  padding: 0 15px;
-}
-
-.u-section-2 .u-text-2 {
-  font-size: 1.875rem;
-  margin: 11px auto 0;
-}
-
-.u-section-2 .u-text-3 {
-  font-size: 1.5rem;
-  margin: 8px 499px 0 34px;
-}
-
-.u-section-2 .u-text-4 {
-  font-size: 1.5rem;
-  margin: -294px 19px 0 481px;
-}
-
-@media (max-width: 1199px) {
-   .u-section-2 {
-    min-height: 328px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    width: 940px;
-    margin-right: calc(((100% - 940px) / 2));
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 942px;
-  }
-
-  .u-section-2 .u-custom-html-1 {
-    width: 303px;
-    margin-top: -29px;
-    margin-right: 14px;
-    margin-left: 0;
-  }
-
-  .u-section-2 .u-text-1 {
-    width: 303px;
-    margin-top: -37px;
-    margin-right: 14px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 259px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-left: 151px;
-  }
-
-  .u-section-2 .u-text-3 {
-    margin-top: -208px;
-    margin-right: 414px;
-    margin-left: 28px;
-  }
-
-  .u-section-2 .u-text-4 {
-    margin-top: -235px;
-    margin-right: 0;
-    margin-left: 161px;
-  }
-}
-
-@media (max-width: 991px) {
-   .u-section-2 {
-    min-height: 59px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    width: 720px;
-    margin-right: calc(((100% - 720px) / 2));
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 980px;
-  }
-
-  .u-section-2 .u-custom-html-1 {
-    width: 229px;
-    margin-right: 0;
-  }
-
-  .u-section-2 .u-text-1 {
-    width: 229px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-2 .u-text-3 {
-    margin-right: 282px;
-  }
-
-  .u-section-2 .u-text-4 {
-    margin-top: -273px;
-    margin-left: 14px;
-  }
-}
-
-@media (max-width: 767px) {
-   .u-section-2 {
-    min-height: 159px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    width: 540px;
-    margin-right: calc(((100% - 540px) / 2));
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 415px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-text-3 {
-    font-size: 1rem;
-    margin-top: -30px;
-  }
-
-  .u-section-2 .u-text-4 {
-    font-size: 1rem;
-    margin-top: -248px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-2 .u-layout-wrap-1 {
-    width: 340px;
-    margin-right: calc(((100% - 340px) / 2));
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 391px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-left: 95px;
-  }
-
-  .u-section-2 .u-text-3 {
-    margin-top: 70px;
-    margin-right: 82px;
-  }
-
-  .u-section-2 .u-text-4 {
-    margin-top: -348px;
-    margin-left: 0;
-  }
-}.u-section-3 .u-sheet-1 {
-  min-height: 379px;
-}
-
-.u-section-3 .u-layout-wrap-1 {
-  width: 1501px;
-  margin: 0 -180px 19px;
-}
-
-.u-section-3 .u-layout-cell-1 {
-  min-height: 360px;
-  background-image: none;
-}
-
-.u-section-3 .u-container-layout-1 {
-  padding: 14px 12px;
-}
-
-.u-section-3 .u-text-1 {
-  font-size: 1.875rem;
-  margin: 0 auto;
-}
-
-.u-section-3 .u-image-1 {
-  width: 153px;
-  height: 67px;
-  margin: 19px auto 0 352px;
-}
-
-.u-section-3 .u-image-2 {
-  width: 153px;
-  height: 67px;
-  margin: -66px auto 0 85px;
-}
-
-.u-section-3 .u-text-2 {
-  font-size: 1.5rem;
-  margin: 17px auto 0 29px;
-}
-
-.u-section-3 .u-text-3 {
-  font-size: 1.5rem;
-  margin: -26px auto 0 382px;
-}
-
-.u-section-3 .u-image-3 {
-  width: 153px;
-  height: 67px;
-  margin: 36px 78px 0 auto;
-}
-
-.u-section-3 .u-image-4 {
-  width: 153px;
-  height: 67px;
-  margin: -65px auto 0 85px;
-}
-
-.u-section-3 .u-text-4 {
-  font-size: 1.5rem;
-  margin: 11px 34px 0 auto;
-}
-
-.u-section-3 .u-text-5 {
-  font-size: 1.5rem;
-  margin: -26px auto 0 99px;
-}
-
-.u-section-3 .u-layout-cell-2 {
-  min-height: 360px;
-}
-
-.u-section-3 .u-container-layout-2 {
-  padding: 14px 20px;
-}
-
-.u-section-3 .u-text-6 {
-  font-size: 1.875rem;
-  margin: 34px 11px 0;
-}
-
-.u-section-3 .u-image-5 {
-  width: 231px;
-  height: 101px;
-  margin: 27px auto 0;
-}
-
-.u-section-3 .u-text-7 {
-  font-size: 1.5rem;
-  margin: 10px auto 0;
-}
-
-.u-section-3 .u-layout-cell-3 {
-  min-height: 360px;
-  background-image: none;
-}
-
-.u-section-3 .u-container-layout-3 {
-  padding: 30px 24px;
-}
-
-.u-section-3 .u-text-8 {
-  margin: 0 16px 0 36px;
-}
-
-.u-section-3 .u-text-9 {
-  margin: 8px 32px 0 20px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 244px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    width: 940px;
-    margin-right: 0;
-    margin-left: 0;
-  }
-
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 225px;
-  }
-
-  .u-section-3 .u-image-1 {
-    margin-left: 199px;
-  }
-
-  .u-section-3 .u-text-3 {
-    margin-left: 233px;
-  }
-
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 225px;
-  }
-
-  .u-section-3 .u-image-5 {
-    width: 212px;
-    height: 93px;
-  }
-
-  .u-section-3 .u-layout-cell-3 {
-    min-height: 225px;
-  }
-
-  .u-section-3 .u-text-8 {
-    width: 300px;
-    margin-right: 0;
-    margin-left: 0;
-  }
-
-  .u-section-3 .u-text-9 {
-    margin-right: 0;
-    margin-left: 0;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 191px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    width: 720px;
-  }
-
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 100px;
-  }
-
-  .u-section-3 .u-image-1 {
-    margin-left: 111px;
-  }
-
-  .u-section-3 .u-text-3 {
-    margin-left: 175px;
-  }
-
-  .u-section-3 .u-text-5 {
-    margin-left: 74px;
-  }
-
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-3 .u-image-5 {
-    width: 153px;
-    height: 67px;
-  }
-
-  .u-section-3 .u-layout-cell-3 {
-    min-height: 100px;
-  }
-
-  .u-section-3 .u-text-8 {
-    width: 216px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 456px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    width: 540px;
-  }
-
-  .u-section-3 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-3 .u-text-3 {
-    margin-left: 345px;
-  }
-
-  .u-section-3 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-3 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 331px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    width: 340px;
-  }
-
-  .u-section-3 .u-text-3 {
-    margin-left: 212px;
-  }
-}
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="pt"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Regras para a realização da Prova">
+    <meta name="description" content="">
+    <title>index1</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="index1.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 5.10.10, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="index1">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body class="u-body u-xl-mode" data-lang="pt">
+    <section class="u-clearfix u-section-1" id="sec-9ab9">
+      <div class="u-clearfix u-gutter-10 u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-palette-1-light-3 u-radius-50 u-shape-round u-size-33 u-layout-cell-1">
+              <div class="u-container-layout u-container-layout-1">
+                <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-1" src="images/SG45anos_logoP_fundo_branco.jpg" alt="" data-image-width="500" data-image-height="500">
+                <p class="u-align-left u-text u-text-1"><span class="u-icon"></span>Colégio Estadual Santa&nbsp;Gemma Galgani<br>Ensino Integral - Médio ​e Técnico<br>Ensino Regular e Técnico
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-size-27 u-layout-cell-2">
+              <div class="u-container-layout u-container-layout-2">
+                <div class="u-carousel u-carousel-duration-5000 u-expanded-width u-gallery u-gallery-slider u-layout-carousel u-lightbox u-no-transition u-show-text-on-hover u-gallery-1" id="carousel-d2d5" data-interval="5000" data-u-ride="carousel">
+                  <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="0" class="u-active u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="1" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="2" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="3" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="4" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="5" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="6" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="7" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                    <li data-u-target="#carousel-d2d5" data-u-slide-to="8" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
+                  </ol>
+                  <div class="u-carousel-inner u-gallery-inner" role="listbox">
+                    <div class="u-active u-carousel-item u-effect-fade u-gallery-item u-carousel-item-1">
+                      <div class="u-back-slide" data-image-width="700" data-image-height="165">
+                        <img class="u-back-image u-expanded" src="images/CESantagema2.png">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-1">
+                        <h3 class="u-gallery-heading">Sample Title</h3>
+                        <p class="u-gallery-text">Sample Text</p>
+                      </div>
+                    </div>
+                    <div class="u-carousel-item u-effect-fade u-gallery-item u-carousel-item-2" data-image-width="1600" data-image-height="720">
+                      <div class="u-back-slide">
+                        <img class="u-back-image u-expanded u-back-image-2" src="images/WhatsAppImage2023-05-09at08.28.01.jpeg">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-2">
+                        <h3 class="u-gallery-heading"></h3>
+                        <p class="u-gallery-text"></p>
+                      </div>
+                      <style data-mode="XL"></style>
+                      <style data-mode="LG"></style>
+                      <style data-mode="MD"></style>
+                      <style data-mode="SM"></style>
+                      <style data-mode="XS"></style>
+                    </div>
+                    <div class="u-carousel-item u-effect-fade u-gallery-item u-carousel-item-3" data-image-width="1040" data-image-height="780">
+                      <div class="u-back-slide">
+                        <img class="u-back-image u-expanded" src="images/WhatsAppImage2023-05-18at12.58.10.jpeg">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-3">
+                        <h3 class="u-gallery-heading"></h3>
+                        <p class="u-gallery-text"></p>
+                      </div>
+                      <style data-mode="XL"></style>
+                      <style data-mode="LG"></style>
+                      <style data-mode="MD"></style>
+                      <style data-mode="SM"></style>
+                      <style data-mode="XS"></style>
+                    </div>
+                    <div class="u-carousel-item u-effect-fade u-gallery-item u-carousel-item-4" data-image-width="960" data-image-height="1280">
+                      <div class="u-back-slide">
+                        <img class="u-back-image u-expanded" src="images/WhatsAppImage2023-05-10at17.40.52.jpeg">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-4">
+                        <h3 class="u-gallery-heading"></h3>
+                        <p class="u-gallery-text"></p>
+                      </div>
+                      <style data-mode="XL"></style>
+                      <style data-mode="LG"></style>
+                      <style data-mode="MD"></style>
+                      <style data-mode="SM"></style>
+                      <style data-mode="XS"></style>
+                    </div>
+                    <div class="u-carousel-item u-effect-fade u-gallery-item u-carousel-item-5" data-image-width="1600" data-image-height="1200">
+                      <div class="u-back-slide">
+                        <img class="u-back-image u-expanded u-back-image-5" src="images/WhatsAppImage2023-05-17at16.33.10.jpeg">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-5">
+                        <h3 class="u-gallery-heading"></h3>
+                        <p class="u-gallery-text"></p>
+                      </div>
+                      <style data-mode="XL"></style>
+                      <style data-mode="LG"></style>
+                      <style data-mode="MD"></style>
+                      <style data-mode="SM"></style>
+                      <style data-mode="XS"></style>
+                    </div>
+                    <div class="u-carousel-item u-effect-fade u-gallery-item u-carousel-item-6" data-image-width="1280" data-image-height="576">
+                      <div class="u-back-slide">
+                        <img class="u-back-image u-expanded u-back-image-6" src="images/WhatsAppImage2023-05-24at19.29.44.jpeg">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-6">
+                        <h3 class="u-gallery-heading"></h3>
+                        <p class="u-gallery-text"></p>
+                      </div>
+                      <style data-mode="XL"></style>
+                      <style data-mode="LG"></style>
+                      <style data-mode="MD"></style>
+                      <style data-mode="SM"></style>
+                      <style data-mode="XS"></style>
+                    </div>
+                    <div class="u-carousel-item u-effect-fade u-gallery-item u-carousel-item-7" data-image-width="1600" data-image-height="1200">
+                      <div class="u-back-slide">
+                        <img class="u-back-image u-expanded u-back-image-7" src="images/WhatsAppImage2023-05-17at16.33.101.jpeg">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-7">
+                        <h3 class="u-gallery-heading"></h3>
+                        <p class="u-gallery-text"></p>
+                      </div>
+                      <style data-mode="XL"></style>
+                      <style data-mode="LG"></style>
+                      <style data-mode="MD"></style>
+                      <style data-mode="SM"></style>
+                      <style data-mode="XS"></style>
+                    </div>
+                    <div class="u-carousel-item u-effect-fade u-gallery-item u-carousel-item-8" data-image-width="720" data-image-height="1600">
+                      <div class="u-back-slide">
+                        <img class="u-back-image u-expanded u-back-image-8" src="images/WhatsAppImage2023-04-19at08.47.37.jpeg">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-8">
+                        <h3 class="u-gallery-heading"></h3>
+                        <p class="u-gallery-text"></p>
+                      </div>
+                      <style data-mode="XL"></style>
+                      <style data-mode="LG"></style>
+                      <style data-mode="MD"></style>
+                      <style data-mode="SM"></style>
+                      <style data-mode="XS"></style>
+                    </div>
+                    <div class="u-carousel-item u-effect-fade u-gallery-item u-carousel-item-9" data-image-width="720" data-image-height="1600">
+                      <div class="u-back-slide">
+                        <img class="u-back-image u-expanded u-back-image-9" src="images/WhatsAppImage2023-05-09at08.28.02.jpeg">
+                      </div>
+                      <div class="u-align-center u-over-slide u-shading u-valign-bottom u-over-slide-9">
+                        <h3 class="u-gallery-heading"></h3>
+                        <p class="u-gallery-text"></p>
+                      </div>
+                      <style data-mode="XL"></style>
+                      <style data-mode="LG"></style>
+                      <style data-mode="MD"></style>
+                      <style data-mode="SM"></style>
+                      <style data-mode="XS"></style>
+                    </div>
+                  </div>
+                  <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-hidden u-icon-rounded u-opacity u-opacity-70 u-palette-1-base u-spacing-10 u-text-white u-carousel-control-1" href="#carousel-d2d5" role="button" data-u-slide="prev">
+                    <span aria-hidden="true">
+                      <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
+                    </span>
+                    <span class="sr-only">
+                      <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
+                    </span>
+                  </a>
+                  <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-hidden u-icon-rounded u-opacity u-opacity-70 u-palette-1-base u-spacing-10 u-text-white u-carousel-control-2" href="#carousel-d2d5" role="button" data-u-slide="next">
+                    <span aria-hidden="true">
+                      <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
+                    </span>
+                    <span class="sr-only">
+                      <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-border-1 u-border-white u-clearfix u-white u-section-2" id="sec-1bf8">
+      <div class="u-clearfix u-gutter-16 u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-shape-rectangle u-size-20 u-layout-cell-1">
+              <div class="u-container-layout u-container-layout-1">
+                <div class="u-clearfix u-custom-html u-opacity u-opacity-0 u-custom-html-1">
+                  <iframe width="800" height="350" style="padding: 0px; margin: 0px; border: none !important; background: transparent !important;" marginheight="-10" marginwidth="0" frameborder="0" scrolling="no" comment="/*defined*/" src="https://dayspedia.com/if/digit/?v=1&amp;iframe=eyJ3LTEyIjpmYWxzZSwidy0xMSI6ZmFsc2UsInctMTMiOnRydWUsInctMTQiOmZhbHNlLCJ3LTE1IjpmYWxzZSwidy0xMTAiOmZhbHNlLCJ3LXdpZHRoLTAiOnRydWUsInctd2lkdGgtMSI6ZmFsc2UsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiI0OHB4Iiwidy0xOSI6Ijk2Iiwidy0xNyI6IjMyIiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6LTEsImJnaW1hZ2VTZXQiOmZhbHNlLCJ3LTIxYzAiOiIjZmZmZmZmIiwidy0wIjp0cnVlLCJ3LTMiOmZhbHNlLCJ3LTNjMCI6IiMzNDM0MzQiLCJ3LTNiMCI6IjEiLCJ3LTYiOiIjMzQzNDM0Iiwidy0yMCI6dHJ1ZSwidy00IjoiI2ZmZmZmZiIsInctMTgiOmZhbHNlLCJ3LXdpZHRoLTJjLTAiOiIzMDAiLCJ3LTExNSI6dHJ1ZX0=&amp;lang=pt&amp;cityid=5496"></iframe>
+                </div>
+                <h3 class="u-align-center u-text u-text-1">Fique atento a hora de início e fim da prova!</h3>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-palette-1-base u-radius-50 u-shape-round u-size-40 u-layout-cell-2">
+              <div class="u-container-layout u-container-layout-2">
+                <h1 class="u-align-center u-text u-text-default u-text-2">Regras para a realização da Prova</h1>
+                <ul class="u-text u-text-3">
+                  <li> Sobre a carteira apenas lápis, borracha e caneta.&nbsp;</li>
+                  <li>Qualquer outro objeto para a realização da prova apenas se o uso estiver permitido.</li>
+                  <li>Não é permitido o uso
+do celular, os aparelhos devem ser desligados e colocados nas mochilas.&nbsp;</li>
+                </ul>
+                <ul class="u-text u-text-4">
+                  <li>Os (As) estudantes deverão se posicionar com as carteiras em fila e na ordem em que os (as) mesmos (as) estão na
+chamada da turma.<br>
+                  </li>
+                  <li> As mochilas fechadas
+devem ser colocadas em frente ao quadro, no chão, <b>antes do início da prova</b>.<br>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-3" id="sec-9799">
+      <div class="u-clearfix u-sheet u-valign-top u-sheet-1">
+        <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-layout-cell u-palette-1-base u-radius-50 u-shape-round u-size-24 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1">
+                  <h1 class="u-align-center u-text u-text-default u-text-1">Como <span style="font-weight: 700;">não <span style="font-weight: 400;">preencher o gabarito</span>
+                    </span>
+                  </h1>
+                  <img class="u-image u-image-contain u-image-round u-preserve-proportions u-radius-50 u-image-1" src="images/InCorreto2.png" alt="" data-image-width="153" data-image-height="67">
+                  <img class="u-image u-image-contain u-image-round u-preserve-proportions u-radius-50 u-image-2" src="images/InCorreto1.png" alt="" data-image-width="153" data-image-height="67">
+                  <h1 class="u-align-left u-text u-text-default u-text-2">Parcialmente preenchido</h1>
+                  <h1 class="u-align-left u-text u-text-default u-text-3">Com um X</h1>
+                  <img class="u-image u-image-contain u-image-round u-preserve-proportions u-radius-50 u-image-3" src="images/InCorreto3.png" alt="" data-image-width="153" data-image-height="67">
+                  <img class="u-image u-image-contain u-image-round u-preserve-proportions u-radius-50 u-image-4" src="images/InCorreto4.png" alt="" data-image-width="153" data-image-height="67">
+                  <h1 class="u-align-left u-text u-text-default u-text-4">extrapolando o gabarito&nbsp;</h1>
+                  <h1 class="u-align-left u-text u-text-default u-text-5">Rabiscando</h1>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-13 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <h1 class="u-align-center u-text u-text-default u-text-6">Como <span style="font-weight: 700;">preencher o gabarito</span>
+                  </h1>
+                  <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-5" src="images/Correto.png" alt="" data-image-width="153" data-image-height="67">
+                  <h1 class="u-align-left u-text u-text-default u-text-7">Completando o gabarito&nbsp;</h1>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-palette-1-base u-radius-50 u-shape-round u-size-23 u-layout-cell-3">
+                <div class="u-container-layout u-valign-top u-container-layout-3">
+                  <h3 class="u-align-center u-text u-text-8"><span class="u-file-icon u-icon"><img src="images/5610989.png" alt=""></span>&nbsp;
+                  </h3>
+                  <h3 class="u-align-center u-text u-text-9"> Todos(as) têm o direito de fazer a prova com tranquilidade.<br>Portanto, silêncio durante o tempo de realização!
+                  </h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-97db"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Eita</p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  
+</body></html>
